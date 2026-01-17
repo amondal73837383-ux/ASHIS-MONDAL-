@@ -1,0 +1,8 @@
+{
+  "name": "Crops - Nurturing Conversations",
+  "description": "A nature-inspired, AI-enhanced messaging platform for seamless communication, featuring smart summaries, AI-generated stickers, and context-aware replies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
